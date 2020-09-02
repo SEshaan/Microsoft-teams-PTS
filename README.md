@@ -8,4 +8,4 @@ microsoft teams push to talk(browser only)
 Teams has no push to talk so i made my own
 under the request of my classmates i have decided to make this public to others who want push to talk
 
-# Hope microsoft adds this soon!
+# Hope microsoft adds pts soon!
