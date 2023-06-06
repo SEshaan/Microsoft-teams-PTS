@@ -6,9 +6,6 @@
 
     the key is space
 
-    Made by: Greatesh
-
-    please give me credit for this
 */
 var mute
 mute = true
